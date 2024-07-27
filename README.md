@@ -1,2 +1,1 @@
-# docker-mitsuba
-Docker | Mitsuba
+# Docker | Mitsuba
