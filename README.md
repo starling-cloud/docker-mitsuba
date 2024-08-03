@@ -1,6 +1,6 @@
 # Docker | Mitsuba
 
-**Starling Suite**
+**Starling Studio Suite**
 
 ---
 
